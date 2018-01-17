@@ -2,12 +2,35 @@
 
 Định hướng luyện tập và chuẩn bị cho kì thi chứng chỉ IELTS. **Repo dựa theo một bài viết được chia sẻ trên group chia sẻ tài liệu và thảo luyện về IELTS ([IELTS Ngọc Bách](https://www.facebook.com/groups/ieltsngocbach/))**
 
+How to use:
+---
+> I'm using Github's special markdown flavor, including tasks lists to check progress.
+>
+> Create a new branch so you can check items like this, just put an x in the brackets: [x]
+>
+> Fork a branch and follow the commands below
+> git checkout -b progress
+>
+> git remote add jwasham https://github.com/luuductrung1234/ielts-roadmap
+>
+> git fetch --all
+>
+> Mark all boxes with X after you completed your changes git add .
+>
+> git commit -m "Marked x"
+>
+> git rebase jwasham/master
+>
+> git push --force
+>
+> [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
 Index:
 ---
 * [Details](#details)
-  * [Website](#website)
-  * [Book](#book)
-  * [Todo](#todo)
+  * Website
+  * Book
+  * Todo
 * [Notice](#notice)
 
 
