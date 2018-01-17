@@ -45,7 +45,7 @@
 >
 > Thank you! :smile:
 
-_[back to top](#index)_
+_[back to index](#index)_
 
 
 
@@ -82,7 +82,9 @@ _[back to top](#index)_
 >- [] **Mỗi ngày đọc tối thiểu 3 bài mẫu writing** trên trang của Simon và DCIelts. Nên chọn phong cách viết của 1 người để theo. Nếu muốn viết đơn giản thì nên theo phong cách của Simon. Khi xem bài mẫu nhớ **phân tích kỹ structure toàn bài văn, ideas chính, structure của đoạn văn, cách kết hợp các mẫu câu và các từ mới** nếu có. 
 >
 >- [] **1 tháng trước khi thi**: xem toàn bộ các đề thi writing task 2 trong 1-2 năm gần nhất và: list thật nhanh ideas và từ vựng cho các đề writing task 2, viết nhiều đoạn văn và viết bài hoàn chỉnh. Về writing task 1, mỗi ngày viết 1 bài cho các dạng đề phổ biến. Với speaking, coi các đề speaking gần nhất, tự gạch chân ideas, từ vựng thật nhanh và bấm giờ luyện nói, mỗi ngày làm như vậy 30 phút, kết hợp xem phim Friends (hoặc các phim đã xem nhiều rồi) và nói theo, nghe VOA News hoặc Spotlightenglish và nói theo, nghe các bài luyện nói Ielts trên DCIelts, lizIelts và Simon Ielts. Với reading và listening, làm hết toàn bộ các bài reading và listening trong các đề của Cambridge. Ngoài ra, để tăng điểm cho listening và reading thì lúc rảnh tranh thủ coi Ted Talks, phim không phụ đề, đọc báo qua app trên điện thoại. Coi danh sách phim trên [rottentomatoes](www.rottentomatoes.com). Tham khảo list 100 bộ phim mình đã chia sẻ nhé
-_[back to top](#index)_
+
+_[back to index](#index)_
+
 
 
 # Notice: 
@@ -98,4 +100,5 @@ _[back to top](#index)_
 * **Sổ Reading & Listening Strategies**: note lại các bước làm, những điều cần lưu ý cũng như tips/tricks với từng dạng câu hỏi. Bạn có thể mở sổ khi làm bài để vừa áp dụng vừa nhớ luôn những cái mình đã note.
 
 _Phải đọc thật kĩ câu hỏi, không được chủ quan vì có rất nhiều trường hợp, ví dụ đề bài yêu câu trả lời Y/N/NGnhưng người thi vẫn T/F/NG. Hay dề bài yêu cầu điền không quá 2 từ vào chỗ trống, nhưng do không đọc kĩ và đã quen với các bài điền không quá 3 từ, bạn dễ rơi vào bẫy và bị mất điểm. Khi luyện, bạn nhớ chú ý đọc thật kĩ đề tạo thói quen đến khi đi thi sẽ không bị mất điểm đáng tiếc._
-_[back to top](#index)_
+
+_[back to index](#index)_
