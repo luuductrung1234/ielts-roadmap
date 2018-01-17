@@ -2,7 +2,13 @@
 
 # :trophy: IETLS Roadmap
 
-Định hướng luyện tập và chuẩn bị cho kì thi chứng chỉ IELTS. **Repo dựa theo một bài viết được chia sẻ trên group chia sẻ tài liệu và thảo luyện về IELTS ([IELTS Ngọc Bách](https://www.facebook.com/groups/ieltsngocbach/))**
+I create a guideline for the IElTS test in the future 
+
+**This repo motivate by [coding-interview-university](https://github.com/jwasham/coding-interview-university) and the content in  Todo part is according to the post public in facebook group**. This group is here: ([IELTS Ngoc Bach](https://www.facebook.com/groups/ieltsngocbach/)), if you want to find more information.
+
+At this time, my English is not good enough, but I will translate the content below to English later.
+
+---
 
 ### Index:
 * [Intro](#intro)
@@ -40,11 +46,11 @@
 > [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ### Contribute:
-> Feel free to contribute: If you have your better path or you want to suggest me new books, you can send me throught the email: luuductrung1234@gmail.com
+> Feel free to contribute: If you have your better path or you want to suggest me new books, you can send me throught a email above.
 >
 > After checking, I will public it in this repository.
 >
-> Thank you! :smile:
+> Thank you! Happy learning :smile:
 
 _[back to index](#index)_
 
@@ -61,15 +67,15 @@ _[back to index](#index)_
 > [get these books below](https://github.com/luuductrung1234/ielts-roadmap/tree/master/books)
 >
 > Nên tập trung học các cuốn: 
->- **The Official Guide to IELTS**: tổng quan về bài thi IELTS. Sách viết dễ hiểu, tổng hợp cả 4 kĩ năng, bao gồm nhiều bài luyện tập, tip với nội dung sát với thi thật sẽ rất hợp với những bạn chuẩn bị ôn cũng như đang trong quá trình ôn luyện IELTS.
+>- [**The Official Guide to IELTS**](http://ieltsmaterial.com/offical-cambridge-guide-ielts/): tổng quan về bài thi IELTS. Sách viết dễ hiểu, tổng hợp cả 4 kĩ năng, bao gồm nhiều bài luyện tập, tip với nội dung sát với thi thật sẽ rất hợp với những bạn chuẩn bị ôn cũng như đang trong quá trình ôn luyện IELTS.
 >
->- Nếu có nhiều thời gian (ôn 6 tháng tới 1 năm hoặc lâu hơn), có thể học theo bộ **Complete Ielts** (các sách từ level thấp tới cao: Complete Ielts band 4-5, 5-6.5, 6.5-7.5): chọn 2 cuốn, 1 cuốn để củng cố lại level của mình, và 1 cuốn cao hơn level của mình 1 bậc để luyện tăng band (Test thử level bằng cách làm 1 bài test trong bộ Ielts Cambridge). Sách này học cùng với các sách khác. 
+>- Nếu có nhiều thời gian (ôn 6 tháng tới 1 năm hoặc lâu hơn), có thể học theo bộ [**Complete Ielts**](http://ielts-fighter.com/tin-tuc/Full-PDF-AUDIO-ban-dep-Keys-Answer-Tron-bo-Complete-IELTS-Level-4-0-7-5-IELTS_mt1506942224.html) (các sách từ level thấp tới cao: Complete Ielts band 4-5, 5-6.5, 6.5-7.5): chọn 2 cuốn, 1 cuốn để củng cố lại level của mình, và 1 cuốn cao hơn level của mình 1 bậc để luyện tăng band (Test thử level bằng cách làm 1 bài test trong bộ Ielts Cambridge). Sách này học cùng với các sách khác. 
 >
->- Sách **600 Essential Words for Ielts** của Barron: Học chủ yếu để củng cố chắc từ vựng.
+>- Sách [**600 Essential Words for Ielts**](http://ieltsmaterial.com/barrons-essential-words-ielts-pdf-audio/) của Barron: Học chủ yếu để củng cố chắc từ vựng.
 >
->- Bộ **Cambridge Ielts 5-10**. Làm mỗi ngày 1 đề hoặc tối thiểu 1 bài reading và listening, hoặc nếu có nhiều thời gian thì chia khoảng thời gian ra sáng, trưa, tối mỗi lúc làm 1 đề. Lưu ý làm đề listening xong nhớ xem thật kỹ transcript, note bất cứ từ nào mới và nghe lại các bài nghe thật nhiều lần.
+>- Bộ [**Cambridge Ielts 5-10**](https://drive.google.com/drive/folders/0B3L3X8LLMM9OcnZwbWR5NFh2ZTg). Làm mỗi ngày 1 đề hoặc tối thiểu 1 bài reading và listening, hoặc nếu có nhiều thời gian thì chia khoảng thời gian ra sáng, trưa, tối mỗi lúc làm 1 đề. Lưu ý làm đề listening xong nhớ xem thật kỹ transcript, note bất cứ từ nào mới và nghe lại các bài nghe thật nhiều lần.
 >
->- **Cambridge Vocabulary for Ielts**: học toàn bộ nếu có thời gian hoặc chỉ lấy các bài nghe để luyện chép chính tả. Check transcript cuối sách, học kỹ từ mới và nghe lại các bài nghe nhiều lần.
+>- [**Cambridge Vocabulary for Ielts**](https://drive.google.com/file/d/0B42obC0zvaVuT28wTmtMQ1pwVms/view?usp=sharing): học toàn bộ nếu có thời gian hoặc chỉ lấy các bài nghe để luyện chép chính tả. Check transcript cuối sách, học kỹ từ mới và nghe lại các bài nghe nhiều lần.
 
 ### :dart: Todo:
 >- [] Điều kiện cần và đủ để đạt band cao vẫn là **hiểu được cách chấm điểm, các criteria cho từng skill (cái này thì các bạn phải đọc thật kỹ trước khi bắt tay vào học nếu không sẽ rất mất thời gian nhé), từ vựng rộng, chắc ngữ pháp, cộng với luyện tập thật nhiều và sự tự tin, nhanh nhạy trong lúc làm bài**. Vì vậy quá trình học Ielts vẫn là cày từ vựng cùng lúc với luyện cả 4 kỹ năng. Lộ trình dưới đây dành cho cách bạn học từ 3 tháng tới 1 năm, các bạn có thể skip bước nào tùy vào khả năng của các bạn, dưới đây là kinh nghiệm học của mình trong 3 tháng, các bạn có thể kéo dài hơn và học kỹ hơn tùy vào khả năng và thời gian của bạn.
