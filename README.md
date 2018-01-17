@@ -1,9 +1,24 @@
+![ảnh sưu tầm](https://github.com/luuductrung1234/ielts-roadmap/blob/master/images/ielts.jpg)
+
 # :trophy: IETLS Roadmap
 
 Định hướng luyện tập và chuẩn bị cho kì thi chứng chỉ IELTS. **Repo dựa theo một bài viết được chia sẻ trên group chia sẻ tài liệu và thảo luyện về IELTS ([IELTS Ngọc Bách](https://www.facebook.com/groups/ieltsngocbach/))**
 
-How to use:
+Index:
 ---
+* [Intro](#intro)
+  * How to use
+  * Contribute
+* [Details](#details)
+  * Website
+  * Book
+  * Todo
+* [Notice](#notice)
+
+
+
+# Intro:
+### How to use:
 > I'm using Github's special markdown flavor, including tasks lists to check progress.
 >
 > Create a new branch so you can check items like this, just put an x in the brackets: [x]
@@ -25,16 +40,12 @@ How to use:
 >
 > [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-Index:
----
-* [Details](#details)
-  * Website
-  * Book
-  * Todo
-* [Notice](#notice)
+### Contribute:
+> Feel free to contribute: If you have your better path or you want to suggest me new books, you can send me throught the email: luuductrung1234@gmail.com
+> After checking, I will public it in this repository.
+>
+> Thank you! :smile:
 
-
----
 
 
 # Details
@@ -45,6 +56,8 @@ Index:
 > _Cá nhân mình rất thích trang của Simon, tuy nhiên các bạn mới học Ielts chưa nên học theo trang này vì dễ bị rối, có thể học theo Simon khi đã quen với các đề thi Ielts._
 
 ### :blue_book: Book:
+> [get these books below](https://github.com/luuductrung1234/ielts-roadmap/tree/master/books)
+>
 > Nên tập trung học các cuốn: 
 >- **The Official Guide to IELTS**: tổng quan về bài thi IELTS. Sách viết dễ hiểu, tổng hợp cả 4 kĩ năng, bao gồm nhiều bài luyện tập, tip với nội dung sát với thi thật sẽ rất hợp với những bạn chuẩn bị ôn cũng như đang trong quá trình ôn luyện IELTS.
 >
@@ -68,6 +81,8 @@ Index:
 >- [] **Mỗi ngày đọc tối thiểu 3 bài mẫu writing** trên trang của Simon và DCIelts. Nên chọn phong cách viết của 1 người để theo. Nếu muốn viết đơn giản thì nên theo phong cách của Simon. Khi xem bài mẫu nhớ **phân tích kỹ structure toàn bài văn, ideas chính, structure của đoạn văn, cách kết hợp các mẫu câu và các từ mới** nếu có. 
 >
 >- [] **1 tháng trước khi thi**: xem toàn bộ các đề thi writing task 2 trong 1-2 năm gần nhất và: list thật nhanh ideas và từ vựng cho các đề writing task 2, viết nhiều đoạn văn và viết bài hoàn chỉnh. Về writing task 1, mỗi ngày viết 1 bài cho các dạng đề phổ biến. Với speaking, coi các đề speaking gần nhất, tự gạch chân ideas, từ vựng thật nhanh và bấm giờ luyện nói, mỗi ngày làm như vậy 30 phút, kết hợp xem phim Friends (hoặc các phim đã xem nhiều rồi) và nói theo, nghe VOA News hoặc Spotlightenglish và nói theo, nghe các bài luyện nói Ielts trên DCIelts, lizIelts và Simon Ielts. Với reading và listening, làm hết toàn bộ các bài reading và listening trong các đề của Cambridge. Ngoài ra, để tăng điểm cho listening và reading thì lúc rảnh tranh thủ coi Ted Talks, phim không phụ đề, đọc báo qua app trên điện thoại. Coi danh sách phim trên [rottentomatoes](www.rottentomatoes.com). Tham khảo list 100 bộ phim mình đã chia sẻ nhé
+
+
 
 # Notice: 
 **một điều cũng rất quan trọng để học tiết kiệm thời gian và hiệu quả là phải có sổ ghi chép thật cẩn thận trong quá trình học và ôn**
