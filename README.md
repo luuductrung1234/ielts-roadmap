@@ -59,7 +59,7 @@ _[back to index](#index)_
 # Details
 
 ### :globe_with_meridians: Website: 
-> [IeltsBuddy](www.ieltsbuddy.com), [DCielts](www.dcielts.com), [Ielts Simon](www.ielts-simon.com), [Ielts liz](http://ieltsliz.com), [Ielts up](http://ielts-up.com), [Ielts advantage](http://ieltsadvantage.com), [Ielts blog](http://www.ielts-blog.com/)
+> [IeltsBuddy](http://www.ieltsbuddy.com), [DCielts](http://www.dcielts.com), [Ielts Simon](http://www.ielts-simon.com), [Ielts liz](http://ieltsliz.com), [Ielts up](http://ielts-up.com), [Ielts advantage](http://ieltsadvantage.com), [Ielts blog](http://www.ielts-blog.com/)
 >
 > _Cá nhân mình rất thích trang của Simon, tuy nhiên các bạn mới học Ielts chưa nên học theo trang này vì dễ bị rối, có thể học theo Simon khi đã quen với các đề thi Ielts._
 
@@ -84,7 +84,7 @@ _[back to index](#index)_
 >
 >- [] **Grammar**: học ngữ pháp Ielts trên Ielts Buddy và cùng lúc ôn ngữ pháp cơ bản trên các trang học ngữ pháp online (google ra rất nhiều nhưng nên học hệ thống trên 1 2 trang hay), **tập trung thực hành viết nhuần nhuyễn các loại câu đơn, câu phức, câu ghép và cách kết hợp nhuần nhuyễn 3 loại câu trong 1 đoạn văn trong 1-2 tháng. Đọc thật nhiều bài mẫu của Simon và DCIelts để thấm nhuần ngữ pháp của writing. Tham khảo các lỗi ngữ pháp thường gặp tại [ielts-simon: correct grammar mistake](http://ielts-simon.com/ielts-help-and-english-pr/2018/01/ielts-grammar-correct-the-mistakes.html) . Ngoài ra, nên luyện mệnh đề danh ngữ, mệnh đề quan hệ, câu điều kiện và câu bị động thật nhiều để tăng điểm cho speaking**. Tham khảo các trang: [ieltsspeaking: vocacbulary](http://www.ieltsspeaking.co.uk/ielts-vocabulary/) và  [ieltsliz: vocabulary](http://ieltsliz.com/vocabulary/) và [ieltsup: vocabulary speaking](http://ielts-up.com/speaking/ielts-vocabulary-speaking.html)
 >
->- [] **Tiếp tục học sách** Complete Ielts trong 1 tháng (chọn sách theo hướng dẫn tại mục 1). Trong thời gian này thì **luyện nghe chép chính tả** ngày 30 phút (dùng nguồn chép chính rất trên [breakingnewsenglish](https://breakingnewsenglish.com/) hoặc [manythings](www.manythings.org) hoặc [CNN Student News](http://edition.cnn.com/cnn10).
+>- [] **Tiếp tục học sách** Complete Ielts trong 1 tháng (chọn sách theo hướng dẫn tại mục 1). Trong thời gian này thì **luyện nghe chép chính tả** ngày 30 phút (dùng nguồn chép chính rất trên [breakingnewsenglish](https://breakingnewsenglish.com/) hoặc [manythings](http://www.manythings.org) hoặc [CNN Student News](http://edition.cnn.com/cnn10).
 >
 >- [] **Mỗi ngày đọc tối thiểu 3 bài mẫu writing** trên trang của Simon và DCIelts. Nên chọn phong cách viết của 1 người để theo. Nếu muốn viết đơn giản thì nên theo phong cách của Simon. Khi xem bài mẫu nhớ **phân tích kỹ structure toàn bài văn, ideas chính, structure của đoạn văn, cách kết hợp các mẫu câu và các từ mới** nếu có. [khóa học về writing](https://www.class-central.com/report/writing-free-online-courses/)
 >
